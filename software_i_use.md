@@ -93,7 +93,7 @@
 #### Timingapp
   - privacy minded, mac only
 
-####ActivityWatch
+#### ActivityWatch
   - oss, private, really early so missing a lot of features i need
 
 #### RescueTime
